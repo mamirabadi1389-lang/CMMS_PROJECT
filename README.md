@@ -86,4 +86,8 @@
 <b>CMMS_PROJECT</b>, bakım süreçlerini dijitalleştirmek ve optimize etmek amacıyla geliştirilmiş kapsamlı ve entegre bir Bilgisayarlı Bakım Yönetim Sistemidir (CMMS). Platform; ekipman ve varlıkların merkezi yönetimi, önleyici bakım planlaması, bakım talepleri ve iş emirlerinin yönetimi, bakım faaliyetlerinin takibi ve performans analizini sağlar.
 </p>
 
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> 218b9d5 (Update README project description)
